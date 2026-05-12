@@ -1,4 +1,4 @@
-Hello, I'm Roméo. Here's a few facts about me :
+Hello, I'm Roméo! Here's a few facts about me :
 - I am a computer science student at [<b>EPFL</b>](https://www.epfl.ch/) in Switzerland 🇨🇭
 - Previously, I've worked as a system engineer for a CubeSat 🛰️ mission within the [<b>EPFL Spacecraft Team</b>](https://www.epflspacecraftteam.ch/)
 - Currently, I'm focused on leveraging FP paradigms within Rust 🦀 to build robust systems such as Embedded Systems, OS development, WebAssembly, and high-performance CLI tools
